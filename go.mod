@@ -1,4 +1,4 @@
-module github.com/mintar-co/contracts
+module github.com/mintar-contract
 
 go 1.16
 
